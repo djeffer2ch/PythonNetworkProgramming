@@ -5,6 +5,7 @@ import time
 
 print()
 print(" --> Remote access to Avaya switches <--")
+print("  -> Developed by: Diego Chacón (dchacon@lynx.com.ec)")
 print()
 TEL_HOST = input("Enter the Avaya switch IP address: ")
 TEL_USER = 'rwa'
