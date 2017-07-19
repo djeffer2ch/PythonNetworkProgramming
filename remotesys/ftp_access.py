@@ -1,5 +1,6 @@
 # 
 # Python FTP access
+# Developed by: Diego J. Chacón (dchacon@lynx.com.ec)
 # 
 
 import ftplib
